@@ -1,0 +1,2 @@
+# discord-bb
+bible bot
